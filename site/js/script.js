@@ -56,7 +56,7 @@ function setupWhatsAppButton() {
     whatsappBtns.forEach(btn => {
         btn.addEventListener('click', function() {
             // Link do grupo do WhatsApp fornecido pelo usuário
-            const whatsappUrl = 'https://chat.whatsapp.com/Iu71zJ5LFeIIn0rAN341R9';
+            const whatsappUrl = 'https://chat.whatsapp.com/LVDLoYdm1GyHQ3ePolr53w';
             
             // Abre o WhatsApp em uma nova aba
             window.open(whatsappUrl, '_blank');
